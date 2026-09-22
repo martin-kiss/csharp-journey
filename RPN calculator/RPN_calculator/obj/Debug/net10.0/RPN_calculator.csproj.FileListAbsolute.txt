@@ -1,0 +1,15 @@
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\bin\Debug\net10.0\RPN_calculator.exe
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\bin\Debug\net10.0\RPN_calculator.deps.json
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\bin\Debug\net10.0\RPN_calculator.runtimeconfig.json
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\bin\Debug\net10.0\RPN_calculator.dll
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\bin\Debug\net10.0\RPN_calculator.pdb
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.AssemblyInfoInputs.cache
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.AssemblyInfo.cs
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.csproj.CoreCompileInputs.cache
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.dll
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\refint\RPN_calculator.dll
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.pdb
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calculator.genruntimeconfig.cache
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\ref\RPN_calculator.dll
+X:\Github projects to be uploaded\RPN_calculator\RPN_calculator\obj\Debug\net10.0\RPN_calc.FE080E97.Up2Date

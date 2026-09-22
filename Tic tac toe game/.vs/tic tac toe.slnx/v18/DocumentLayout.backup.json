@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Github projects to be uploaded\\tic tac toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA90222C-89EC-41B9-8789-1CECD61D964C}|tic tac toe\\tic tac toe.csproj|x:\\github projects to be uploaded\\tic tac toe\\tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA90222C-89EC-41B9-8789-1CECD61D964C}|tic tac toe\\tic tac toe.csproj|solutionrelative:tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Github projects to be uploaded\\tic tac toe\\tic tac toe\\Program.cs",
+              "RelativeDocumentMoniker": "tic tac toe\\Program.cs",
+              "ToolTip": "X:\\Github projects to be uploaded\\tic tac toe\\tic tac toe\\Program.cs",
+              "RelativeToolTip": "tic tac toe\\Program.cs",
+              "ViewState": "AgIAAFEAAAAASjMzMzMHwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T17:47:09.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

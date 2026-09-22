@@ -1,0 +1,15 @@
+X:\Github projects to be uploaded\word_guesser\word_guesser\bin\Debug\net10.0\word_guesser.exe
+X:\Github projects to be uploaded\word_guesser\word_guesser\bin\Debug\net10.0\word_guesser.deps.json
+X:\Github projects to be uploaded\word_guesser\word_guesser\bin\Debug\net10.0\word_guesser.runtimeconfig.json
+X:\Github projects to be uploaded\word_guesser\word_guesser\bin\Debug\net10.0\word_guesser.dll
+X:\Github projects to be uploaded\word_guesser\word_guesser\bin\Debug\net10.0\word_guesser.pdb
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.AssemblyInfoInputs.cache
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.AssemblyInfo.cs
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.csproj.CoreCompileInputs.cache
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.dll
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\refint\word_guesser.dll
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.pdb
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_guesser.genruntimeconfig.cache
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\ref\word_guesser.dll
+X:\Github projects to be uploaded\word_guesser\word_guesser\obj\Debug\net10.0\word_gue.DA1852CC.Up2Date

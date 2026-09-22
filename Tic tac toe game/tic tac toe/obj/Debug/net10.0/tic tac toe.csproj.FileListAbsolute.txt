@@ -1,0 +1,15 @@
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\bin\Debug\net10.0\tic tac toe.exe
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\bin\Debug\net10.0\tic tac toe.deps.json
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\bin\Debug\net10.0\tic tac toe.runtimeconfig.json
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\bin\Debug\net10.0\tic tac toe.dll
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\bin\Debug\net10.0\tic tac toe.pdb
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.AssemblyInfoInputs.cache
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.AssemblyInfo.cs
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.csproj.CoreCompileInputs.cache
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.dll
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\refint\tic tac toe.dll
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.pdb
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac toe.genruntimeconfig.cache
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\ref\tic tac toe.dll
+X:\Github projects to be uploaded\tic tac toe\tic tac toe\obj\Debug\net10.0\tic tac .A7136788.Up2Date

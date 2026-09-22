@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Github projects to be uploaded\\Section speed control \u00E9retts\u00E9gi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE36F5B6-3DB3-4DFD-9C37-E93905C1F867}|Section speed control \u00E9retts\u00E9gi\\Section speed control \u00E9retts\u00E9gi.csproj|x:\\github projects to be uploaded\\section speed control \u00E9retts\u00E9gi\\section speed control \u00E9retts\u00E9gi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE36F5B6-3DB3-4DFD-9C37-E93905C1F867}|Section speed control \u00E9retts\u00E9gi\\Section speed control \u00E9retts\u00E9gi.csproj|solutionrelative:section speed control \u00E9retts\u00E9gi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\Github projects to be uploaded\\Section speed control \u00E9retts\u00E9gi\\Section speed control \u00E9retts\u00E9gi\\Program.cs",
+              "RelativeDocumentMoniker": "Section speed control \u00E9retts\u00E9gi\\Program.cs",
+              "ToolTip": "X:\\Github projects to be uploaded\\Section speed control \u00E9retts\u00E9gi\\Section speed control \u00E9retts\u00E9gi\\Program.cs",
+              "RelativeToolTip": "Section speed control \u00E9retts\u00E9gi\\Program.cs",
+              "ViewState": "AgIAAIUAAADAnJmZmZkdwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T18:07:39.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
