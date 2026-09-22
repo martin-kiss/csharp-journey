@@ -3,7 +3,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //6. es 7. feladat ai keptelen voltam megcsinalni
         //rendszam - ora - perc - sebesseg
         string path = @"C:\temp\jeladas.txt";
         string ora = "";
