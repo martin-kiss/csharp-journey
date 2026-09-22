@@ -1,9 +1,21 @@
-Converts an infix expression (like `3+4*2`) into reverse Polish 
-notation using the shunting-yard algorithm, then evaluates the result.
+# Reverse Polish Notation Calculator
+
+Converts an infix expression (such as `3+4*2`) into Reverse Polish Notation using the Shunting-yard algorithm, then evaluates the resulting expression.
 
 ## How to run
 
+```bash
 dotnet run
+```
 
-Type an infix expression when prompted (e.g. `3+4*2`), and the program 
-prints the RPN form and the evaluated result.
+Enter an infix expression when prompted, for example:
+
+```text
+3+4*2
+```
+
+The program prints both the RPN form of the expression and the calculated result.
+
+## Date
+
+15 May 2026
