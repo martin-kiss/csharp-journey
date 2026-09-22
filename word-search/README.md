@@ -1,11 +1,25 @@
-Reads a word list from a text file and drops 10 of them onto a 15x15 
-grid — horizontally, vertically, or diagonally — then fills the rest 
-of the grid with random letters. The player tries to guess the hidden 
-words.
+# Word Search
+
+A console word search game that reads a word list from a text file, places 10 words onto a 15x15 grid horizontally, vertically, or diagonally, and fills the remaining spaces with random letters.
 
 ## How to run
-The word list needs to exist at C:\temp\words.txt, one word per line. 
 
-Then:
+The `words.txt` file needs to exist at:
+
+`C:\temp\words.txt`
+
+The file should contain one word per line.
+
+Then run:
+
+```bash
 dotnet run
-Guess a word, or type `kilep` to quit.
+```
+
+Guess a hidden word by entering it in the console.
+
+Type `kilep` to quit the game.
+
+## Date
+
+18 March 2026
