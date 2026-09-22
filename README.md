@@ -6,11 +6,16 @@ The goal here is mostly to track how things change over time: how I structure co
 
 ## Projects
 
--RPN Calculator — infix-to-RPN conversion and evaluation using a stack
--Word Search Game — places words on a grid and lets you guess them
--Tower of Hanoi — the classic puzzle, playable in the console
--Tic-Tac-Toe — console game against a bot
--Speed Gate Data Processing — reads timestamps, computes speeds, writes a fine list
+-RPN Calculator: infix-to-RPN conversion and evaluation using a stack
+
+-Word Search Game: places words on a grid and lets you guess them
+
+-Tower of Hanoi: the classic puzzle, playable in the console
+
+-Tic-Tac-Toe: console game against a bot
+
+-Speed Gate Data Processing: reads timestamps, computes speeds, writes a fine list
+
 -more added as I progress forward in school...
 
 
