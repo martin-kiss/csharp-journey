@@ -8,13 +8,19 @@ Each project has its own README with more detail and notes on what I'd still wan
 
 ## Projects
 
-- **RPN Calculator** — infix-to-RPN conversion and evaluation using a stack
-- **Word Search Game** — places words on a grid and lets you guess them
-- **Tower of Hanoi** — the classic puzzle, playable in the console
-- **Tic-Tac-Toe** — console game against a bot
-- **Speed Gate Data Processing** — reads timestamps, calculates speeds, and generates a fine list
-- **Section Speed Control** — processes vehicle measurements and calculates section speeds
-- **Vehicle Registry** — object-oriented vehicle and user management using LINQ
+- **RPN Calculator**: infix-to-RPN conversion and evaluation using a stack
+  
+- **Word Search Game**: places words on a grid and lets you guess them
+  
+- **Tower of Hanoi**: the classic puzzle, playable in the console
+  
+- **Tic-Tac-Toe**: console game against a bot
+  
+- **Speed Gate Data Processing**: reads timestamps, calculates speeds, and generates a fine list
+  
+- **Section Speed Control**: processes vehicle measurements and calculates section speeds
+  
+- **Vehicle Registry**: object-oriented vehicle and user management using LINQ
 
 ## Why
 
