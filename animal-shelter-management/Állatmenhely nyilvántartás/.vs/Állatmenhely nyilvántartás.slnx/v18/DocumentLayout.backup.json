@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "X:\\Personal\\v\u00E1zlatok 12. oszt\u00E1ly\\C#\\12. osztaly c#\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\",
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82F7D4EA-9335-4729-B32B-FA82C7846890}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|x:\\personal\\v\u00E1zlatok 12. oszt\u00E1ly\\c#\\12. osztaly c#\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F7D4EA-9335-4729-B32B-FA82C7846890}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|solutionrelative:\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|c:\\mac\\home\\documents\\github\\csharp-journey\\animal-shelter-management\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\animalsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|solutionrelative:\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\animalsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|c:\\mac\\home\\documents\\github\\csharp-journey\\animal-shelter-management\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|solutionrelative:\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|c:\\mac\\home\\documents\\github\\csharp-journey\\animal-shelter-management\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\shelteranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288DA212-8E53-A622-BB84-934000D13541}|\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s.csproj|solutionrelative:\u00E1llatmenhely nyilv\u00E1ntart\u00E1s\\shelteranimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShelterAnimal.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\ShelterAnimal.cs",
+              "RelativeDocumentMoniker": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\ShelterAnimal.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\ShelterAnimal.cs",
+              "RelativeToolTip": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\ShelterAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:23:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AnimalSection.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\AnimalSection.cs",
+              "RelativeDocumentMoniker": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\AnimalSection.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\AnimalSection.cs",
+              "RelativeToolTip": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\AnimalSection.cs",
+              "ViewState": "AgIAACMAAABANDMzM/M9wBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:43:44.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "X:\\Personal\\v\u00E1zlatok 12. oszt\u00E1ly\\C#\\12. osztaly c#\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
               "RelativeDocumentMoniker": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
-              "ToolTip": "X:\\Personal\\v\u00E1zlatok 12. oszt\u00E1ly\\C#\\12. osztaly c#\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\csharp-journey\\animal-shelter-management\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
               "RelativeToolTip": "\u00C1llatmenhely nyilv\u00E1ntart\u00E1s\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAmZmZmRklwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T19:42:30.237Z",
               "EditorCaption": ""
