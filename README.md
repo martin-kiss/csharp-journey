@@ -22,6 +22,8 @@ Each project has its own README with more detail and notes on what I'd still wan
   
 - **Vehicle Registry**: object-oriented vehicle and user management using LINQ
 
+- **More projects will be uploaded later on**
+
 ## Why
 
 Mostly so I have a record of my own progress.
